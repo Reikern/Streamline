@@ -2,4 +2,5 @@
 
 .Title {
   font-family: 'Lato', sans-serif; 
-  }
+  border: 2px solid black;
+}
