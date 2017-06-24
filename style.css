@@ -3,3 +3,11 @@ h1 {
   font-family: 'Lato', sans-serif; 
   border-bottom: 2px solid blue;
 }
+
+#nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
